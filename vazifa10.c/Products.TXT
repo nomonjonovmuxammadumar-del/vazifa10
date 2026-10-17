@@ -1,0 +1,8 @@
+Non 5000 20
+Sut 12000 8
+Shakar 15000 3
+Yog 25000 2
+Guruch 18000 15
+Tuxum 2000 4
+Un 10000 12
+Sabzi 3000 1
